@@ -1,4 +1,4 @@
-### Hello, World!
+## Hello, World!
 
 - ✏️ Atualmente estudando Python
 
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=rafaelsumita&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsumita&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=rafaelsumita&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsumita&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,4 +25,5 @@
   <a href = "mailto:rafaelavelarsumita@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://br.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561199163455285/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/sumitah" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
