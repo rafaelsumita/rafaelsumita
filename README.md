@@ -12,11 +12,14 @@
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsumita&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
+##
+### Aprendendo:
+
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1835792451517087369/14D7FC44316E5AB0C76DF2AB73B2AF97C6041C61/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+  <img align="right" alt="Rafa-pic" height="170" style="border-radius:70px;" src="https://steamuserimages-a.akamaihd.net/ugc/1835792451517087369/14D7FC44316E5AB0C76DF2AB73B2AF97C6041C61/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </div>
   
   ##
