@@ -7,10 +7,9 @@
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 ##
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaelsumita">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelsumita&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsumita&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsumita&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
