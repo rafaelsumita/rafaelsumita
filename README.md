@@ -26,7 +26,7 @@
 ##
  - ✏️ atualmente estudando Python
 
-  🐍 "Simples é melhor que complexo.
+  🟪 "Simples é melhor que complexo.
   Complexo é melhor que complicado"
   _Tim Peters_
 
