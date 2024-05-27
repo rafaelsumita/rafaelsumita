@@ -27,8 +27,4 @@
 
 ##
 
-  🟪 "Simples é melhor que complexo,
-  complexo é melhor que complicado"
-  _Tim Peters_
-
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7b4397&height=120&section=footer"/>
